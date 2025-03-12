@@ -1,0 +1,6 @@
+let name = "Alice";
+let amount = 5;
+let price = 20;
+let d = "name" + bought + amount + "items for $" + price + ".";
+console.log(d)
+
